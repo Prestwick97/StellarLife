@@ -1,0 +1,6 @@
+Molecular cloud -> coalesce
+  Center of mass: (∑i=0Nmi)xc = ∑i=0Nmixi
+    *The center of mass can also be thought of as the average location of the masses weighted by their masses.*
+
+Apparent Magnitude ≡ m = −2.5logF+K
+Absolute magnitude ≡ M = −2.5logF(r=10 pc)+K

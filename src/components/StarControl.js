@@ -5,6 +5,7 @@ import LowMassControl from './LowMassControl';
 import HighMassControl from './HighMassControl';
 import Header from './Header';
 import Footer from './Footer';
+import LowMassMainSequenceStar from './LowMassControl/LowMassMainSequenceStar';
 
 class StarControl extends React.Component {
   constructor(props) {
@@ -19,7 +20,10 @@ class StarControl extends React.Component {
 
   render() {
     return(
+      <React.Fragment>
       <StarBirth />
+      <LowMassMainSequenceStar />
+      </React.Fragment>
     );
   }
 }

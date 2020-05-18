@@ -1,3 +1,55 @@
+# _StarLife_
+
+#### _An application that allows users to simulate the lifecycle of a star, May 8th, 2020_
+
+#### By _**Patrick S. Delaney**_
+
+## Description
+
+_In this application, users will (eventually) be able to run simulations of a star's lifecycle. Simulations will vary depending on the manipulations made to the star's mass at birth._
+
+## Specs
+
+* Behavior: Star will begin it's life as a low-mass star.
+	* Input: solarMass = 1
+	* Output: *This star will begin it's journey as a low-mass star.
+
+## Setup/Installation Requirements
+
+* _At this point in development, the application is uncompleted. Installation instructions will be incorporated at a later date._
+
+## Known Bugs
+
+_No known bugs at this time; as there is very little code to break._
+
+## Support and contact details
+
+_If you have any questions, comments, concerns, or suggestions, feel free to email Patrick at prestwick97@gmail.com_
+
+## Technologies Used (thus far)
+
+_React_
+_Javascript_
+_Node.js_
+_CSS_
+_HTML_
+_Webpack_
+
+## Technologies yet to be potentially used 
+_Three.js_
+_Tensar flow_
+__
+
+
+### License
+
+*Licensed under GPL open source License*
+
+Copyright (c) 2020 **_Patrick S. Delaney_**
+
+
+## React Specifications
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts

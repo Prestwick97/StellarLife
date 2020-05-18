@@ -1,11 +1,10 @@
 import React from 'react';
 import PropTypes from 'prop-types';
 import StarBirth from './StarBirth';
-import LowMassControl from './LowMassControl';
-import HighMassControl from './HighMassControl';
-import Header from './Header';
-import Footer from './Footer';
-import LowMassMainSequenceStar from './LowMassControl/LowMassMainSequenceStar';
+import LowMassMainSequenceStar from './LowMassCycle/LowMassMainSequenceStar';
+import RedGiant from './LowMassCycle/RedGiant';
+import Star from './Star';
+
 
 class StarControl extends React.Component {
   constructor(props) {
@@ -22,7 +21,6 @@ class StarControl extends React.Component {
     return(
       <React.Fragment>
       <StarBirth />
-      <LowMassMainSequenceStar />
       </React.Fragment>
     );
   }

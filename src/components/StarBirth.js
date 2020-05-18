@@ -1,5 +1,4 @@
 import React from 'react';
-import MolecularCloud from './MolecularCloud';
 import "./styles.css";
 
 function StarBirth() {

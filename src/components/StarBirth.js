@@ -6,7 +6,7 @@ function StarBirth() {
     <React.Fragment>
       <div class='createStar'>
       <h1>Testing</h1>
-        <form>
+        <form id="massForm">
             <input type='number' name='mass' placeholder='solar mass (kg)'/>
             <button>{"Create your star"}</button>
         </form>

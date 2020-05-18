@@ -1,11 +1,14 @@
 import React from 'react';
+import PropTypes from 'prop-types';
 import "./styles.css";
 
-function StarBirth(){
+function StarBirth(props){
   function handleStarCreation(event){
     console.log(event.target.mass.value)
     event.preventDefault();
+    props.onNewStar(event.target.mass.value);
   }
+
   return(
     <React.Fragment>
       <div className='createStar'>
@@ -19,4 +22,7 @@ function StarBirth(){
   );
 }
 
+StarBirth.propTypes = {
+  onNewStar: PropTypes.func
+}
 export default StarBirth;

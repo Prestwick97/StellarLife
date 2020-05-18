@@ -29,7 +29,7 @@ class StarControl extends React.Component {
   }
 
   render() {
-    let currentlyVisibleState = null;
+    let visibleCycle = null;
     return(
       <React.Fragment>
         <StarBirth onNewStar={this.StarChange} />;
@@ -37,4 +37,5 @@ class StarControl extends React.Component {
     );
   }
 }
+
 export default StarControl;

@@ -13,7 +13,7 @@ function StarBirth(props){
     <React.Fragment>
       <div className='createStar'>
       <h1>Testing</h1>
-        <form id="massForm" onSubmit={handleStarCreation}>
+        <form id="massForm">
             <input type='number' name='mass' placeholder='Mass (solar units)'/>
             <button>{"Create your star"}</button>
         </form>

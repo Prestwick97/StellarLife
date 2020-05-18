@@ -1,6 +1,6 @@
 // import './App.css';
-// import Header from './Header';
-// import Footer from './Footer';
+import Header from './Header';
+import Footer from './Footer';
 import React from 'react';
 import StarControl from './StarControl';
 
@@ -9,9 +9,9 @@ function App() {
     <div>
       <React.Fragment>
         <div>
-          {/* <Header /> */}
+          <Header />
           <StarControl />
-          {/* <Footer /> */}
+          <Footer />
         </div>
       </React.Fragment>
     </div>

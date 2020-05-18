@@ -18,9 +18,10 @@ class StarControl extends React.Component {
   }
 
   render() {
+    let currentlyVisibleState = null;
     return(
       <React.Fragment>
-      <StarBirth />
+      {currentlyVisibleState}
       </React.Fragment>
     );
   }

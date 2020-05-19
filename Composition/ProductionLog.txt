@@ -11,3 +11,5 @@ Refresh basic knowledge of how props work in React
 Start three.js course on udemy
 Investigate babylon.js
 
+✨Pivot✨ : Focus on making animations using babylon instead of three js -- implement funcionality later
+

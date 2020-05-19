@@ -1,5 +1,5 @@
 import React from 'react';
-import PropTypes from 'prop-types';
+// import PropTypes from 'prop-types';
 import StarBirth from './StarBirth';
 import LowMassMainSequenceStar from './LowMassCycle/LowMassMainSequenceStar';
 import HighMassMainSequenceStar from './HighMassCycle/HighMassMainSequence';

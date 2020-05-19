@@ -9,4 +9,5 @@ Solidify general React component structure knowledge (Youtube tutorials) (5+hour
 Learn about threeFiber (using three.js with react)
 Refresh basic knowledge of how props work in React
 Start three.js course on udemy
+Investigate babylon.js
 

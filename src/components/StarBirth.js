@@ -6,14 +6,14 @@ function StarBirth(props){
   function handleStarCreation(event){
     console.log(event.target.mass.value)
     event.preventDefault();
-    props.onNewStar(event.target.mass.value);
+    props.onNewStar({starMass: event.target.mass.value});
   }
 
   return(
     <React.Fragment>
       <div className='createStar'>
       <h1>Testing</h1>
-        <form id="massForm">
+        <form id="massForm" onSubmit={handleStarCreation}>
             <input type='number' name='mass' placeholder='Mass (solar units)'/>
             <button>{"Create your star"}</button>
         </form>

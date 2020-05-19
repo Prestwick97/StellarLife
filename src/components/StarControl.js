@@ -8,12 +8,12 @@ import Star from './Star';
 
 
 class StarControl extends React.Component {
-  constructor(props) {
-    super(props);
-    this.state = {
-      visibleCycle: null
-    };
-  }
+  // constructor(props) {
+  //   super(props);
+  //   this.state = {
+  //     visibleCycle: null
+  //   };
+  // }
 
   // StarChange = (starMass) => {
   //   if(starMass <10){

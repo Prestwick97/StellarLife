@@ -8,12 +8,12 @@ import Star from './Star';
 
 
 class StarControl extends React.Component {
-  constructor(props) {
-    super(props);
-    this.state = {
-      visibleCycle: null
-    };
-  }
+  // constructor(props) {
+  //   super(props);
+  //   this.state = {
+  //     visibleCycle: null
+  //   };
+  // }
 
   StarChange = (starMass) => {
     if(starMass <10){
@@ -29,10 +29,15 @@ class StarControl extends React.Component {
   }
 
   render() {
-    let visibleCycle = null;
     return(
       <React.Fragment>
-        <StarBirth onNewStar={this.StarChange} />;
+        <div className='createStar'>
+      <h1>Testing</h1>
+        <form id="massForm">
+            <input type='number' name='mass' placeholder='Mass (solar units)'/>
+            <button>{"Create your star"}</button>
+        </form>
+      </div>
       </React.Fragment>
     );
   }

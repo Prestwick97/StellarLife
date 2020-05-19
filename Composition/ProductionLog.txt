@@ -1,15 +1,28 @@
 Three.js tutorial 1
+
 Three.js tutorial 2 
+
 TensorFlow tutorial 1
+
 Research potential life cycles for stars
+
 Research math for star physics
-Solidify general React component structure knowledge (Youtube tutorials) (5+hours) 
+
+Solidify general React component structure knowledge (Youtube tutorials) (~5hours) 
   https://www.youtube.com/watch?v=DLX62G4lc44&t=5027s
 
 Learn about threeFiber (using three.js with react)
+
 Refresh basic knowledge of how props work in React
-Start three.js course on udemy
-Investigate babylon.js
+
+Start three.js course on udemy(~3 hrs)
+
+Investigate babylon.js: 
+  https://www.youtube.com/watch?v=XFT5omp_F3g&t=489s
 
 ✨Pivot✨ : Focus on making animations using babylon instead of three js -- implement funcionality later
 
+How to use Babylon with React:
+   https://doc.babylonjs.com/resources/babylonjs_and_reactjs
+
+Learning how to create stars in babylon.js

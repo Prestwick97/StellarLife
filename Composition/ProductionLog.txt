@@ -31,3 +31,4 @@ Learning how to create stars in babylon.js
   Learn to customize particle systems: https://doc.babylonjs.com/how_to/customise
   PatricleSet methods: https://doc.babylonjs.com/api/classes/babylon.particlehelper#exportset
   Study particle editor in Babylon playground: https://www.youtube.com/watch?v=mKTD2P1lF9Q
+  Customize particles: https://doc.babylonjs.com/how_to/customise

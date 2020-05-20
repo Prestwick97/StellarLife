@@ -27,3 +27,4 @@ How to use Babylon with React:
 
 Learning how to create stars in babylon.js
   Research particle systems https://doc.babylonjs.com/babylon101/particles#particles
+    Gravity, rotation, emitters, time delays, consistency, spread

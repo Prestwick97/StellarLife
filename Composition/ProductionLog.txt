@@ -36,3 +36,5 @@ Learning how to create stars in babylon.js
   More babylon js videos: https://www.youtube.com/watch?v=3D6BtdMnnQI&t=336s
   When to use async and await functions in babylon
 Learn about babylon inspector
+
+Start building json star particle sets in other "star" repo

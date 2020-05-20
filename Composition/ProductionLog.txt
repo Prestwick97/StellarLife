@@ -42,3 +42,4 @@ Start building json star particle sets in other "star" repo
 Read docs on blending: https://doc.babylonjs.com/how_to/how_to_use_blend_modes
 
 Read docs on preWarm and other types of cycles involved in rendering: https://doc.babylonjs.com/api/classes/babylon.baseparticlesystem#prewarmcycles
+research rgba color value system: https://www.w3schools.com/css/css3_colors.asp

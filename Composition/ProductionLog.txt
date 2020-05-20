@@ -26,4 +26,4 @@ How to use Babylon with React:
    https://doc.babylonjs.com/resources/babylonjs_and_reactjs
 
 Learning how to create stars in babylon.js
-  Research particle systems
+  Research particle systems https://doc.babylonjs.com/babylon101/particles#particles

@@ -45,3 +45,4 @@ Read docs on preWarm and other types of cycles involved in rendering: https://do
 research rgba color value system: https://www.w3schools.com/css/css3_colors.asp
 research particle lifetime docs: https://doc.babylonjs.com/babylon101/particles#lifetime
 research gravity property in babylon: https://doc.babylonjs.com/babylon101/particles#gravity
+Research emit rate in babylon docs: https://doc.babylonjs.com/babylon101/particles#emit-rate-over-time

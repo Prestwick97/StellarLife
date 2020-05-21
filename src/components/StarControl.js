@@ -38,4 +38,5 @@ class StarControl extends React.Component {
     );
   }
 }
+
 export default StarControl;

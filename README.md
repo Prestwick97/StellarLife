@@ -4,9 +4,14 @@
 
 #### By _**Patrick S. Delaney**_
 
+### Welcome to the React portion of this application!
+
 ## Description
 
-_In this application, users will (eventually) be able to run simulations of a star's lifecycle. Simulations will vary depending on the manipulations made to the star's mass at birth._
+_In this application, users will (eventually) be able to run simulations of a star's lifecycle. Simulations will vary depending on the manipulations made to the star's mass at birth. As well as the timeline._
+
+## Project pivot ✨
+_Originally, this project was going to be an interactive site build with React and Three.js. However, after some time spent with development errors I decided to use Babylon.js instead of Three.js for animations. The animations have not yet been encorporated into this React application, but they will be at a later date. At this time, the project proposal in the Composition folder is outdated. Thank you!_
 
 ## Specs
 
@@ -16,11 +21,15 @@ _In this application, users will (eventually) be able to run simulations of a st
 
 ## Setup/Installation Requirements
 
-* _At this point in development, the application is uncompleted. Installation instructions will be incorporated at a later date._
-
+* _navigate to your desktop directory using your terminal: `cd desktop`._
+* _clone this repository: `git clone https://github.com/StellarLife.git`._
+* _open the project directory in your code editor : `cd StellarLife`, `code .`_
+* _install all neccessary packages needed to run the program: `npm install`._
+* _run the program to open in your local server: `npm run start`._
+* _Enjoy the beautiful static page_
 ## Known Bugs
 
-_No known bugs at this time; as there is very little code to break._
+_At this point in development, only the static site works._
 
 ## Support and contact details
 
@@ -34,16 +43,16 @@ _Node.js_
 _CSS_
 _HTML_
 _Webpack_
+_Babylon.js_
 
-## Technologies yet to be potentially used 
+## Technologies to be, or yet to be potentially used 
 _Three.js_
 _Tensar flow_
-__
 
 
 ### License
 
-*Licensed under GPL open source License*
+*Licensed under MIT open source License*
 
 Copyright (c) 2020 **_Patrick S. Delaney_**
 

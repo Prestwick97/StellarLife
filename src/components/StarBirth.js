@@ -17,10 +17,10 @@ function StarBirth(props){
             <input type='number' name='mass' placeholder='Mass (solar units)'/>
             <button>{"Create your star"}</button>
         </form>
-        <form id="timeForm" onSubmit={handleStarCreation}>
+        {/* <form id="timeForm" onSubmit={handleStarCreation}>
             <input type='number' name='time' placeholder='Time (years-billions)'/>
             <button>{"Create your star"}</button>
-        </form>
+        </form> */}
       </div>
     </React.Fragment>
   );
